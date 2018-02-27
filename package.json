@@ -1,0 +1,19 @@
+{
+  "name": "reddit-search",
+  "version": "1.0.0",
+  "description": "Reddit search app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalexaam/Reddit-Search.git"
+  },
+  "author": "Alex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kalexaam/Reddit-Search/issues"
+  },
+  "homepage": "https://github.com/kalexaam/Reddit-Search#readme"
+}
