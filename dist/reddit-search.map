@@ -1,1 +1,1 @@
-{"version":3,"sources":["index.js"],"names":["alert"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAAA,MAAM,GAAN","file":"reddit-search.map","sourcesContent":["alert(123);"]}
+{"version":3,"sources":["index.js"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA","file":"reddit-search.map","sourcesContent":["// alert(123);"]}
